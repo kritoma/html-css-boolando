@@ -58,29 +58,32 @@ body{
 
 .discount{
     background-color: #eb0037;
-    padding: 3px;
+    padding: 3px 5px;
     position: absolute;
     bottom: 20px;
     left: 0;
     color: white;
+    font-size: 14px;
+}
+
+.sustainability, .sustainability-left{
+    color: white;
+    background-color: #00875a;
+    padding: 3px 5px;
+    font-size: 14px;
+
 }
 
 .sustainability{
-    background-color: #00875a;
-    padding: 3px;
     position: absolute;
     bottom: 20px;
     left: 50px;
-    color: white;
 }
 
 .sustainability-left{
-    background-color: #00875a;
-    padding: 3px;
     position: absolute;
     bottom: 20px;
     left: 0px;
-    color: white;
 }
 
 .information{
